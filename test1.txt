@@ -1,1 +1,2 @@
 dice-pull-test
+shoji-push-test
